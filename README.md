@@ -35,7 +35,7 @@ Simplemente ingresa el nombre de cualquier ciudad para obtener:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/chatbot-ia-clima.git
+git clone https://github.com/Paul-Programmer
 
 # Entrar al directorio
 cd chatbot-ia-clima
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 cp .env.example .env
 
 # Ejecutar la aplicación
-python app_2.py
+python app_chatbot_ai.py
 ```
 
 ## Requisitos
@@ -69,7 +69,7 @@ Para usar este chatbot necesitarás:
 
 ```
 chatbot-ia-clima/
-├── app_2.py           # Archivo principal de la aplicación
+├── app_chatbot_ai.py           # Archivo principal de la aplicación
 ├── .env.example       # Ejemplo de configuración de variables de entorno
 ├── requirements.txt   # Dependencias del proyecto
 ├── images/            # Capturas de pantalla e imágenes para documentación
@@ -94,8 +94,8 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## Contacto
 
-[Tu Nombre](mailto:tu_email@ejemplo.com)
+[Paul Estrella](paulestrella92@gmail.com)
 
 ---
 
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por [Paul Estrella - 🐍 PYTHON HASHIRA 🥷]
