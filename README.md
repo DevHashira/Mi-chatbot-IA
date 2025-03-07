@@ -94,7 +94,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ## Contacto
 
-[Paul Estrella](paulestrella92@gmail.com)
+[Paul Estrella](https://github.com/Paul-Programmer)
 
 ---
 
