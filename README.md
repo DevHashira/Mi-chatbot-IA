@@ -98,4 +98,4 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 ---
 
-Desarrollado con ❤️ por [Paul Estrella - 🐍 PYTHON HASHIRA 🥷]
+Desarrollado con ❤️ por [Paul Estrella - 🐍 DEV HASHIRA 🥷]
