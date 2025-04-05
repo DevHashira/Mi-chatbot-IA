@@ -35,7 +35,7 @@ Simplemente ingresa el nombre de cualquier ciudad para obtener:
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Paul-Programmer
+git clone https://github.com/DevHashira
 
 # Entrar al directorio
 cd chatbot-ia-clima
